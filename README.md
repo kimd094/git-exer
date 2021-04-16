@@ -11,3 +11,5 @@ fast-forward exer1
 3-way other
 
 rebase fast-forward
+
+master - rebase auto merge
