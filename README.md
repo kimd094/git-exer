@@ -19,3 +19,5 @@ fast-forward exer1
 rebase fast-forward
 
 master - rebase auto merge
+
+pr 실습
