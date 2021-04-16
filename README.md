@@ -9,3 +9,5 @@ stash 테스트
 fast=forward exer / conflict test
 fast-forward exer1
 3-way other
+
+rebase fast-forward
