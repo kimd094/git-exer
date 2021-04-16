@@ -8,3 +8,4 @@ stash 테스트
 
 fast=forward exer
 fast-forward exer1
+3-way other
