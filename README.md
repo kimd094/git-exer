@@ -7,3 +7,4 @@ stash 테스트
 
 
 fast=forward exer
+fast-forward exer1
