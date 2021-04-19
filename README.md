@@ -1,4 +1,5 @@
 kimd094와 함께하는 Git 교실
+cherry-pick exer
 master & feature pr conflict
 feature pr conflict
 rebase 추가 1 .
